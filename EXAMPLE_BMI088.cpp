@@ -136,7 +136,7 @@ void loop()
     Serial.print(body_ori_x);
     Serial.print("      Y: ");
     Serial.println(body_ori_y);
-    delay(10);
+    delay(10); // Use delay only for testing, remove afterwards
   }
 
 }

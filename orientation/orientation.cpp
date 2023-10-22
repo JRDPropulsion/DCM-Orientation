@@ -1,5 +1,5 @@
 /*
-  orientation.h - Directional cosine matrix library
+  orientation.h - Direction cosine matrix library
   Created by Aryan Kapoor, 5/21/23.
   Released into the public domain.
 */
